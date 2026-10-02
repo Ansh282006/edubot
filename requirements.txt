@@ -3,3 +3,4 @@ scikit-learn
 nltk
 flask
 flask-cors
+rapidfuzz

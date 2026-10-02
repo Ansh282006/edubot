@@ -8,7 +8,7 @@ venv/
 env/
 .env
 
-# Trained Models (Too large for basic Git)
+# Trained Models (regenerate locally with train.py)
 models/*.pkl
 models/*.h5
 

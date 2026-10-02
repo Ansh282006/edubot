@@ -1,0 +1,11 @@
+﻿entity,definition,formula
+force,"Force is any interaction that, when unopposed, will change the motion of an object.","F = m * a"
+entropy,"Entropy is a measure of the disorder or randomness in a system.","dS = Q / T"
+kinetic_energy,"Kinetic energy is the energy an object possesses due to its motion.","KE = 0.5 * m * v^2"
+newtons_second_law,"Newton's second law states that the acceleration of an object is dependent upon two variables - the net force acting upon the object and the mass of the object.","F = m * a"
+ohms_law,"Ohm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points.","V = I * R"
+photosynthesis,"Photosynthesis is the process used by plants to convert light energy into chemical energy.","6CO2 + 6H2O -> C6H12O6 + 6O2"
+momentum,"Momentum is the product of the mass and velocity of an object.","p = m * v"
+velocity,"Velocity is the rate of change of displacement with respect to time.","v = d / t"
+acceleration,"Acceleration is the rate of change of velocity with respect to time.","a = (v - u) / t"
+potential_energy,"Potential energy is the energy held by an object because of its position relative to other objects.","PE = m * g * h"
