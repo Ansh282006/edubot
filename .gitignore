@@ -1,0 +1,21 @@
+﻿# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Trained Models (Too large for basic Git)
+models/*.pkl
+models/*.h5
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+﻿text,intent,response
+"What is the formula for force?","ask_formula","The formula for force is F = m * a (Force = mass * acceleration)."
+"Explain Newton's second law","ask_definition","Newton's second law states that the acceleration of an object is dependent upon two variables - the net force acting upon the object and the mass of the object."
+"Hi","greeting","Hello! I am EduBot. How can I help you study today?"
+"Hello","greeting","Hi there! What subject are we studying today?"
+"Hey","greeting","Hey! Ready to learn?"
+"Bye","goodbye","Goodbye! Good luck with your studies."
+"See you later","goodbye","See you later! Keep learning."
+"What is entropy?","ask_definition","Entropy is a measure of the disorder or randomness in a system."
+"Give me the formula for kinetic energy","ask_formula","The formula for kinetic energy is KE = 0.5 * m * v^2."
+"How do I prepare for JEE?","ask_advice","Focus on understanding concepts, practice previous years' papers, and take regular mock tests."
+"Thanks","thanks","You're welcome! Happy to help."
+"Thank you","thanks","No problem! Keep up the hard work."
